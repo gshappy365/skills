@@ -4,6 +4,7 @@ repo: https://github.com/gshappy365/skills
 provider: github
 publicSkills:
   - ask-matt
+  - chief-of-staff
   - code-review
   - codebase-design
   - diagnosing-bugs
